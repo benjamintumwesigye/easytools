@@ -211,6 +211,7 @@ table{
   border-top: none;
   border-bottom: none;
   color: $text-muted;
+  z-index: 100;
 }
 
 .table thead.bordered th {
