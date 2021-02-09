@@ -1,0 +1,12 @@
+@import '../_variables/variables';
+@import '~node_modules/bootstrap/scss/_variables.scss';
+
+.badge-blue {
+    color: $white;
+    background-color: $blue;
+}
+
+.badge-pinck {
+    color: $white;
+    background-color: $pinck;
+}

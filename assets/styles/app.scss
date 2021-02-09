@@ -1,0 +1,17 @@
+// custom color system
+@import './_variables/variables';
+
+// bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
+
+// custom styles
+@import './_custom/app';
+@import './_utilities/thumb';
+@import './_utilities/padding';
+@import './_utilities/badges';
+
+// fontawesome
+@import '~@fortawesome/fontawesome-free/scss/brands.scss';
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/regular.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
